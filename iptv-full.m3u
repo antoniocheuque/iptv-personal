@@ -1,0 +1,42 @@
+name: Actualizar listas IPTV
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 8 * * 1"
+  push:
+    branches: ["main"]
+    paths:
+      - "config/**"
+      - "scripts/**"
+      - ".github/workflows/update-playlists.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar listas
+        run: python scripts/generate_playlists.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlists/
+          if git diff --cached --quiet; then
+            echo "No hay cambios."
+          else
+            git commit -m "Actualizar listas IPTV"
+            git push
+          fi

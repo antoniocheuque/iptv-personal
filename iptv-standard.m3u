@@ -1,0 +1,200 @@
+{
+  "source_playlist": "https://iptv-org.github.io/iptv/index.m3u",
+  "versions": {
+    "lite": {
+      "target": 50,
+      "quotas": {
+        "Chile": 12,
+        "Noticias": 7,
+        "Películas y series": 8,
+        "Autos y motores": 5,
+        "Ciencia y espacio": 5,
+        "Música": 5,
+        "Documentales y cultura": 5,
+        "Finanzas y tecnología": 3
+      }
+    },
+    "standard": {
+      "target": 150,
+      "quotas": {
+        "Chile": 24,
+        "Latinoamérica": 20,
+        "Noticias": 18,
+        "Películas y series": 25,
+        "Autos y motores": 12,
+        "Ciencia y espacio": 12,
+        "Música": 15,
+        "Documentales y cultura": 14,
+        "Finanzas y tecnología": 10
+      }
+    },
+    "full": {
+      "target": 350,
+      "quotas": {
+        "Chile": 35,
+        "Latinoamérica": 55,
+        "Noticias": 35,
+        "Películas y series": 65,
+        "Autos y motores": 25,
+        "Ciencia y espacio": 25,
+        "Música": 40,
+        "Documentales y cultura": 40,
+        "Finanzas y tecnología": 30
+      }
+    }
+  },
+  "preferred_languages": [
+    "Spanish",
+    "English"
+  ],
+  "preferred_countries": [
+    "CL",
+    "AR",
+    "MX",
+    "CO",
+    "PE",
+    "UY",
+    "PY",
+    "BO",
+    "EC",
+    "ES",
+    "US",
+    "GB",
+    "DE",
+    "FR",
+    "JP",
+    "CA",
+    "AU"
+  ],
+  "exclude_keywords": [
+    "adult",
+    "xxx",
+    "porn",
+    "shopping",
+    "religious",
+    "church",
+    "casino"
+  ],
+  "priority_keywords": {
+    "Chile": [
+      "tvn",
+      "24 horas",
+      "t13",
+      "canal 13",
+      "chilevision",
+      "chv",
+      "mega",
+      "biobio",
+      "senado",
+      "camara",
+      "ntv",
+      "ucv",
+      "tv+"
+    ],
+    "Noticias": [
+      "news",
+      "noticias",
+      "dw",
+      "france 24",
+      "euronews",
+      "al jazeera",
+      "nhk world",
+      "bloomberg",
+      "reuters",
+      "cna",
+      "trt world"
+    ],
+    "Películas y series": [
+      "movie",
+      "movies",
+      "film",
+      "cine",
+      "cinema",
+      "series",
+      "classic",
+      "comedy",
+      "drama",
+      "action",
+      "thriller",
+      "western",
+      "runtime"
+    ],
+    "Autos y motores": [
+      "auto",
+      "motor",
+      "motorsport",
+      "racing",
+      "garage",
+      "car",
+      "cars",
+      "rally",
+      "nascar",
+      "off road",
+      "motorcycle",
+      "bike"
+    ],
+    "Ciencia y espacio": [
+      "science",
+      "nasa",
+      "space",
+      "esa",
+      "astronomy",
+      "university",
+      "engineering",
+      "nature",
+      "earth",
+      "technology"
+    ],
+    "Música": [
+      "music",
+      "musica",
+      "rock",
+      "jazz",
+      "classic",
+      "concert",
+      "hits",
+      "radio",
+      "dance",
+      "country",
+      "blues"
+    ],
+    "Documentales y cultura": [
+      "documentary",
+      "documentales",
+      "history",
+      "culture",
+      "travel",
+      "nature",
+      "education",
+      "museum",
+      "arts",
+      "knowledge"
+    ],
+    "Finanzas y tecnología": [
+      "business",
+      "finance",
+      "financial",
+      "markets",
+      "economy",
+      "economia",
+      "bloomberg",
+      "technology",
+      "tech",
+      "ai",
+      "computer",
+      "startup"
+    ],
+    "Latinoamérica": [
+      "argentina",
+      "mexico",
+      "colombia",
+      "peru",
+      "uruguay",
+      "paraguay",
+      "bolivia",
+      "ecuador",
+      "latino",
+      "latin america"
+    ]
+  }
+}

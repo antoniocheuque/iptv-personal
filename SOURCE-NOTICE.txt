@@ -1,0 +1,3 @@
+#EXTM3U
+# Lista standard pendiente de generación automática (150 canales objetivo).
+# Ejecuta el workflow "Actualizar listas IPTV" en GitHub Actions.
