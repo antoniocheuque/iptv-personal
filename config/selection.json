@@ -17,14 +17,14 @@
     "standard": {
       "target": 150,
       "quotas": {
-        "Chile": 24,
+        "Chile": 25,
         "Latinoamérica": 20,
         "Noticias": 18,
         "Películas y series": 25,
         "Autos y motores": 12,
         "Ciencia y espacio": 12,
         "Música": 15,
-        "Documentales y cultura": 14,
+        "Documentales y cultura": 13,
         "Finanzas y tecnología": 10
       }
     },
@@ -43,120 +43,209 @@
       }
     }
   },
-  "preferred_languages": [
-    "Spanish",
-    "English"
-  ],
-  "preferred_countries": [
-    "CL",
-    "AR",
-    "MX",
-    "CO",
-    "PE",
-    "UY",
-    "PY",
-    "BO",
-    "EC",
-    "ES",
-    "US",
-    "GB",
-    "DE",
-    "FR",
-    "JP",
-    "CA",
-    "AU"
-  ],
-  "exclude_keywords": [
-    "adult",
-    "xxx",
-    "porn",
-    "shopping",
-    "religious",
-    "church",
-    "casino"
-  ],
-  "priority_keywords": {
+  "country_groups": {
+    "spanish": [
+      "CL",
+      "AR",
+      "MX",
+      "CO",
+      "PE",
+      "UY",
+      "PY",
+      "BO",
+      "EC",
+      "VE",
+      "CR",
+      "PA",
+      "DO",
+      "GT",
+      "HN",
+      "SV",
+      "NI",
+      "ES"
+    ],
+    "english": [
+      "US",
+      "GB",
+      "CA",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "international_news": [
+      "DE",
+      "FR",
+      "JP",
+      "QA",
+      "TR",
+      "SG",
+      "CN",
+      "KR",
+      "IN"
+    ]
+  },
+  "category_allowed_country_groups": {
+    "Chile": [
+      "CL"
+    ],
+    "Latinoamérica": [
+      "spanish"
+    ],
+    "Noticias": [
+      "spanish",
+      "english",
+      "international_news"
+    ],
+    "Películas y series": [
+      "spanish",
+      "english"
+    ],
+    "Autos y motores": [
+      "spanish",
+      "english",
+      "DE",
+      "FR",
+      "IT",
+      "JP"
+    ],
+    "Ciencia y espacio": [
+      "spanish",
+      "english",
+      "DE",
+      "FR",
+      "JP"
+    ],
+    "Música": [
+      "spanish",
+      "english",
+      "DE",
+      "FR",
+      "IT",
+      "JP",
+      "KR"
+    ],
+    "Documentales y cultura": [
+      "spanish",
+      "english",
+      "DE",
+      "FR",
+      "IT",
+      "JP"
+    ],
+    "Finanzas y tecnología": [
+      "spanish",
+      "english",
+      "DE",
+      "FR",
+      "JP",
+      "SG"
+    ]
+  },
+  "preferred_exact_ids": {
+    "Chile": [
+      "TVN.cl",
+      "NTV.cl",
+      "24Horas.cl",
+      "Canal13.cl",
+      "T13.cl",
+      "Chilevision.cl",
+      "Mega.cl",
+      "TVMas.cl",
+      "UCVTV.cl",
+      "BioBioTV.cl",
+      "SenadoTV.cl",
+      "CamaraDeDiputadas.cl"
+    ],
+    "Noticias": [
+      "DWEspanol.de",
+      "France24Espanol.fr",
+      "NHKWorldJapan.jp",
+      "AlJazeeraEnglish.qa",
+      "TRTWorld.tr",
+      "BloombergTV.us"
+    ],
+    "Ciencia y espacio": [
+      "NASATVPublic.us",
+      "NASAPlus.us"
+    ]
+  },
+  "preferred_name_patterns": {
     "Chile": [
       "tvn",
       "24 horas",
-      "t13",
       "canal 13",
+      "t13",
       "chilevision",
-      "chv",
       "mega",
+      "ntv",
+      "tv+",
+      "ucv",
       "biobio",
       "senado",
-      "camara",
-      "ntv",
-      "ucv",
-      "tv+"
+      "camara"
     ],
     "Noticias": [
-      "news",
-      "noticias",
-      "dw",
-      "france 24",
-      "euronews",
-      "al jazeera",
+      "dw espanol",
+      "france 24 espanol",
+      "euronews spanish",
+      "al jazeera english",
       "nhk world",
       "bloomberg",
       "reuters",
-      "cna",
-      "trt world"
+      "trt world",
+      "cna"
     ],
     "Películas y series": [
+      "runtime",
+      "cine",
+      "cinema",
       "movie",
       "movies",
       "film",
-      "cine",
-      "cinema",
       "series",
-      "classic",
+      "classic tv",
+      "western",
       "comedy",
       "drama",
       "action",
-      "thriller",
-      "western",
-      "runtime"
+      "thriller"
     ],
     "Autos y motores": [
-      "auto",
+      "motorvision",
+      "garage tv",
       "motor",
       "motorsport",
       "racing",
-      "garage",
-      "car",
+      "automotive",
       "cars",
+      "car channel",
       "rally",
       "nascar",
       "off road",
-      "motorcycle",
-      "bike"
+      "motorcycle"
     ],
     "Ciencia y espacio": [
-      "science",
       "nasa",
       "space",
-      "esa",
+      "science",
       "astronomy",
-      "university",
-      "engineering",
-      "nature",
       "earth",
-      "technology"
+      "engineering",
+      "university",
+      "nature",
+      "esa"
     ],
     "Música": [
       "music",
       "musica",
       "rock",
       "jazz",
-      "classic",
+      "blues",
+      "classical",
       "concert",
       "hits",
-      "radio",
       "dance",
-      "country",
-      "blues"
+      "country"
     ],
     "Documentales y cultura": [
       "documentary",
@@ -167,34 +256,46 @@
       "nature",
       "education",
       "museum",
-      "arts",
-      "knowledge"
+      "arts"
     ],
     "Finanzas y tecnología": [
+      "bloomberg",
       "business",
       "finance",
       "financial",
       "markets",
       "economy",
-      "economia",
-      "bloomberg",
       "technology",
       "tech",
-      "ai",
+      "artificial intelligence",
       "computer",
       "startup"
     ],
     "Latinoamérica": [
-      "argentina",
-      "mexico",
-      "colombia",
-      "peru",
-      "uruguay",
-      "paraguay",
-      "bolivia",
-      "ecuador",
-      "latino",
-      "latin america"
+      "tv publica",
+      "encuentro",
+      "senal colombia",
+      "tv peru",
+      "tnu",
+      "canal once",
+      "canal 22",
+      "paraguay tv",
+      "bolivia tv"
     ]
-  }
+  },
+  "exclude_name_patterns": [
+    "adult",
+    "xxx",
+    "porn",
+    "shopping",
+    "church",
+    "religious",
+    "casino",
+    "test",
+    "backup",
+    "mirror",
+    "5 minut tishiny",
+    "aryan",
+    "ntv mir"
+  ]
 }
