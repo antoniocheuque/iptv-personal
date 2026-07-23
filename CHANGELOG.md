@@ -1,3 +1,9 @@
-#EXTM3U
-# Lista full pendiente de generación automática (350 canales objetivo).
-# Ejecuta el workflow "Actualizar listas IPTV" en GitHub Actions.
+# Changelog
+
+## 1.0.0
+
+- Estructura inicial del proyecto.
+- Generador automático desde iptv-org.
+- Listas Lite, Standard y Full.
+- Priorización de Chile, español, cine, motor, música, ciencia, tecnología y finanzas.
+- Actualización semanal mediante GitHub Actions.
