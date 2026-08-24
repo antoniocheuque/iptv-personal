@@ -2,16 +2,20 @@
 # Generada automáticamente. Canales: 50
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (1080p)
 http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:-1 tvg-id="NTV.cl@SD" tvg-name="NTV (1080p)" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile",NTV (1080p)
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl@SD" tvg-name="24 Horas (1080p)" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="Chile",24 Horas (1080p)
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (1080p)
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (1080p)" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (1080p)
 http://15.204.246.24:8080/MEGAHD/index.m3u8
-#EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-name="UCV TV (720p)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile",UCV TV (720p)
-http://45.162.193.35/UCVTV/index.m3u8
-#EXTINF:-1 tvg-id="BioBioTV.cl@SD" tvg-name="Bio Bio TV (720p)" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="Chile",Bio Bio TV (720p)
-https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World Japan (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Noticias",NHK World Japan (1080p)
-https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+#EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-name="UCV TV (1080p)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile",UCV TV (1080p)
+http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
+#EXTINF:-1 tvg-id="BioBioTV.cl@SD" tvg-name="Bio Bio TV (1080p)" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="Chile",Bio Bio TV (1080p)
+http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World-Japan (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Noticias",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-name="TRT World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Noticias",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg TV Asia (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Noticias",Bloomberg TV Asia (720p)
@@ -26,10 +30,6 @@ https://stream.blserver.cl/hls/ctv/index.m3u8
 https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:-1 tvg-id="EstacionTV.cl@SD" tvg-name="Estacion TV (720p)" tvg-logo="https://i.imgur.com/eICyrPP.png" group-title="Chile",Estacion TV (720p)
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PuconTV.cl@SD" tvg-name="Pucon TV (1080p)" tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile",Pucon TV (1080p)
-https://redirector.dps.live/hls/pucontv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN3.cl@SD" tvg-name="TVN3 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Chile",TVN3 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English (1080p)" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Noticias",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-name="Bloomberg Originals (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Noticias",Bloomberg Originals (1080p)

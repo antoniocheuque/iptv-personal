@@ -2,16 +2,20 @@
 # Generada automáticamente. Canales: 150
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (1080p)
 http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:-1 tvg-id="NTV.cl@SD" tvg-name="NTV (1080p)" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile",NTV (1080p)
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
+#EXTINF:-1 tvg-id="24Horas.cl@SD" tvg-name="24 Horas (1080p)" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="Chile",24 Horas (1080p)
+http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (1080p)
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (1080p)" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (1080p)
 http://15.204.246.24:8080/MEGAHD/index.m3u8
-#EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-name="UCV TV (720p)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile",UCV TV (720p)
-http://45.162.193.35/UCVTV/index.m3u8
-#EXTINF:-1 tvg-id="BioBioTV.cl@SD" tvg-name="Bio Bio TV (720p)" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="Chile",Bio Bio TV (720p)
-https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World Japan (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Noticias",NHK World Japan (1080p)
-https://streams.comclark.com/pknsd/nhk_world/playlist.m3u8
+#EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-name="UCV TV (1080p)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile",UCV TV (1080p)
+http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
+#EXTINF:-1 tvg-id="BioBioTV.cl@SD" tvg-name="Bio Bio TV (1080p)" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="Chile",Bio Bio TV (1080p)
+http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World-Japan (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Noticias",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-name="TRT World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Noticias",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg TV Asia (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Noticias",Bloomberg TV Asia (720p)
@@ -28,16 +32,16 @@ https://v1.tustreaming.cl/emociontv/index.m3u8
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuconTV.cl@SD" tvg-name="Pucon TV (1080p)" tvg-logo="https://i.imgur.com/nO4cV3E.png" group-title="Chile",Pucon TV (1080p)
 https://redirector.dps.live/hls/pucontv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVN3.cl@SD" tvg-name="TVN3 (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Chile",TVN3 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 tvg-id="TVSenado.cl@SD" tvg-name="TV Senado (720p)" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Chile",TV Senado (720p)
+http://cdn1tlinkgo.tlink.cl/tvsenado/mono.m3u8
+#EXTINF:-1 tvg-id="TVN3.cl@SD" tvg-name="TVN3 (1080p)" tvg-logo="https://i.imgur.com/9LEiQPJ.png" group-title="Chile",TVN3 (1080p)
+http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
 #EXTINF:-1 tvg-id="RTVNuble.cl@SD" tvg-name="RTV Nuble" tvg-logo="https://i.imgur.com/BDKgDZG.png" group-title="Chile",RTV Nuble
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniregionTV.cl@SD" tvg-name="Uniregion TV" tvg-logo="https://i.imgur.com/VEO6aos.png" group-title="Chile",Uniregion TV
 https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionTV.cl@SD" tvg-name="Vision TV" tvg-logo="https://i.imgur.com/mTesx1h.png" group-title="Chile",Vision TV
 https://tv.arkeo.cl:1936/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSenado.cl@SD" tvg-name="TV Senado (360p)" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Chile",TV Senado (360p)
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="ADATV.cl@SD" tvg-name="ADA TV (720p)" tvg-logo="https://cdn.m3u.cl/logo/1638_ADA_TV.png" group-title="Chile",ADA TV (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlternativaTV.cl@SD" tvg-name="Alternativa TV (720p)" tvg-logo="https://i.imgur.com/KCrSbgv.png" group-title="Chile",Alternativa TV (720p)
@@ -52,10 +56,6 @@ https://freya.mivideo.pro/centraltv/video.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CoyhaiqueTV.cl@SD" tvg-name="Coyhaique TV (720p)" tvg-logo="https://cdn.m3u.cl/logo/1768_Coyhaique_TV.png" group-title="Chile",Coyhaique TV (720p)
 https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
-#EXTINF:-1 tvg-id="CRTV.cl@SD" tvg-name="CRTV (720p)" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Chile",CRTV (720p)
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 tvg-id="DCHTV.cl@SD" tvg-name="DCH TV (1080p)" tvg-logo="https://i.imgur.com/65Xk6oI.png" group-title="Chile",DCH TV (1080p)
-https://v2.tustreaming.cl/dchtv/index.m3u8
 #EXTINF:-1 tvg-id="Canal22.ar@SD" tvg-name="Canal 22 (720p)" tvg-logo="https://i.imgur.com/R4wXVxf.png" group-title="Latinoamérica",Canal 22 (720p)
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-name="Canal 22 Nacional (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="Latinoamérica",Canal 22 Nacional (720p) [Geo-blocked]
@@ -106,10 +106,12 @@ https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-name="CNA Originals (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Noticias",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish (720p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews Spanish (720p)
-https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish (1080p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews Spanish (1080p)
+https://cdn1tlinkgo.tlink.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="France 24 Español (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="Noticias",France 24 Español (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-name="NHK World Premium (720p)" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Noticias",NHK World Premium (720p)
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe@SD" tvg-name="Radio Uno Tacna (720p)" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="Noticias",Radio Uno Tacna (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-name="Reuters (1080p)" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Noticias",Reuters (1080p)
@@ -120,8 +122,8 @@ http://177.234.249.178:8888/DW/index.m3u8
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BNNBloomberg.ca@SD" tvg-name="BNN Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/BNN_Bloomberg.svg/960px-BNN_Bloomberg.svg.png" group-title="Noticias",BNN Bloomberg
 https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
-#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-name="CNA (480p)" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Noticias",CNA (480p)
-https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-name="CNA International (576p)" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="Noticias",CNA International (576p)
+https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-name="Rakuten TV Action Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Action Movies Austria (720p)
 https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-name="Rakuten TV Comedy Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Comedy Movies Austria (720p)
@@ -146,6 +148,8 @@ https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 tvg-id="AfghanNobelMovies.ca@SD" tvg-name="Afghan Nobel Movies (720p)" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="Películas y series",Afghan Nobel Movies (720p)
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-name="Az Cinema (1080p)" tvg-logo="https://i.imgur.com/B5UN7C8.png" group-title="Películas y series",Az Cinema (1080p)
+https://cdn1tlinkgo.tlink.cl/azcinema/index.m3u8
 #EXTINF:-1 tvg-id="CTBPerthMoviesChannel.au@SD" tvg-name="CTB Perth Movies (720p)" tvg-logo="https://i.imgur.com/VB8gtCy.jpeg" group-title="Películas y series",CTB Perth Movies (720p)
 https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EBSCinema.us@SD" tvg-name="EBS Cinema (720p)" tvg-logo="https://i.imgur.com/fewPTFE.png" group-title="Películas y series",EBS Cinema (720p)
@@ -154,6 +158,8 @@ https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseWestern.us@SD" tvg-name="FilmRise Westerns (720p)" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Películas y series",FilmRise Westerns (720p)
 https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="FMHMovies.us@SD" tvg-name="FMH Movies (1080p)" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Películas y series",FMH Movies (1080p)
+https://cdn1tlinkgo.tlink.cl/fmhmovies/index.m3u8
 #EXTINF:-1 tvg-id="GravitasMovies.us@SD" tvg-name="Gravitas Movies (1080p)" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="Películas y series",Gravitas Movies (1080p)
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-name="Hallmark Movies & More (1080p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" group-title="Películas y series",Hallmark Movies & More (1080p)
@@ -168,10 +174,6 @@ https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_i
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Austria" tvg-name="Rakuten TV Family Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Family Movies Austria (720p)
 https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-name="Zylo Cine Western (1080p)" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Películas y series",Zylo Cine Western (1080p)
-https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-name="Lifetime Movies (1080p)" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Películas y series",Lifetime Movies (1080p)
-http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-name="Motorvision (1080p)" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Autos y motores",Motorvision (1080p)
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us@SD" tvg-name="30A We Love Cars (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Autos y motores",30A We Love Cars (720p)
@@ -287,16 +289,14 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-name="Yahoo! Finance (1080p)" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Finanzas y tecnología",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business Network (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="Finanzas y tecnología",Fox Business Network (720p)
-http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+http://5.254.89.106/6187/index.m3u8
 #EXTINF:-1 tvg-id="BajoTechoTV.do@SD" tvg-name="Bajo Techo TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Finanzas y tecnología",Bajo Techo TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-name="Junior Technologia TV (1080p) [Not 24/7]" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="Finanzas y tecnología",Junior Technologia TV (1080p) [Not 24/7]
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
+#EXTINF:-1 tvg-id="CRTV.cl@SD" tvg-name="CRTV (720p)" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Chile",CRTV (720p)
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="DCHTV.cl@SD" tvg-name="DCH TV (1080p)" tvg-logo="https://i.imgur.com/65Xk6oI.png" group-title="Chile",DCH TV (1080p)
+https://v2.tustreaming.cl/dchtv/index.m3u8
 #EXTINF:-1 tvg-id="DecimaTV.cl@SD" tvg-name="Décima TV (Ancud) (720p)" tvg-logo="https://i.imgur.com/eu8hDDc.png" group-title="Chile",Décima TV (Ancud) (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ElCentroTV.cl@SD" tvg-name="El Centro TV (720p)" tvg-logo="https://i.imgur.com/2KqGHvA.png" group-title="Chile",El Centro TV (720p)
-https://v1.tustreaming.cl/diarioelcentrotv/index.m3u8
-#EXTINF:-1 tvg-id="ElPinguinoTV.cl@SD" tvg-name="El Pinguino TV (720p)" tvg-logo="https://i.imgur.com/ikEs9b8.png" group-title="Chile",El Pinguino TV (720p)
-https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
-#EXTINF:-1 tvg-id="EPATV.cl@SD" tvg-name="EPA! TV (720p)" tvg-logo="https://cdn.m3u.cl/logo/1649_EPA__TV.png" group-title="Chile",EPA! TV (720p)
-https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
