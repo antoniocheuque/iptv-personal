@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cl/tvpassport.com.epg.xml"
 # Generada automáticamente. Canales: 50
-#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (1080p)" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (1080p)
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (Chile) (1080p)" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (Chile) (1080p)
 http://15.204.246.24:8080/TVNHD/index.m3u8
-#EXTINF:-1 tvg-id="NTV.cl@SD" tvg-name="NTV (1080p)" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile",NTV (1080p)
+#EXTINF:-1 tvg-id="NTV.cl@SD" tvg-name="NTV (Chile) (1080p)" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Chile",NTV (Chile) (1080p)
 http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
-#EXTINF:-1 tvg-id="24Horas.cl@SD" tvg-name="24 Horas (1080p)" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="Chile",24 Horas (1080p)
+#EXTINF:-1 tvg-id="24Horas.cl@SD" tvg-name="24 Horas (Chile) (1080p)" tvg-logo="https://i.imgur.com/CEE9zPe.png" group-title="Chile",24 Horas (Chile) (1080p)
 http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (1080p)
+#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Chile) (1080p)
 http://15.204.246.24:8080/Canal13HD/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (1080p)" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (1080p)
+#EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (Chile) (1080p)" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (Chile) (1080p)
 http://15.204.246.24:8080/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl@SD" tvg-name="UCV TV (1080p)" tvg-logo="https://i.postimg.cc/jjGpZf4T/UCV-Logo.png" group-title="Chile",UCV TV (1080p)
 http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
@@ -16,8 +16,8 @@ http://cdn1tlinkgo.tlink.cl/ucvhd/mono.m3u8
 http://cdn1tlinkgo.tlink.cl/biobiotv/mono.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK World-Japan (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Noticias",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-name="TRT World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Noticias",TRT World HD
-https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-name="TRT World (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Noticias",TRT World (720p)
+https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-name="Bloomberg TV Asia (720p)" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Noticias",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="ADNTV.cl@SD" tvg-name="ADN TV (720p)" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="Chile",ADN TV (720p)
@@ -32,23 +32,23 @@ https://v1.tustreaming.cl/emociontv/index.m3u8
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English (1080p)" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Noticias",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="BloombergOriginals.us@SD" tvg-name="Bloomberg Originals (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Noticias",Bloomberg Originals (1080p)
-https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-name="BloombergHT (720p)" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Noticias",BloombergHT (720p)
+#EXTINF:-1 tvg-id="BloombergHT.tr@SD" tvg-name="Bloomberg HT (720p)" tvg-logo="https://i.imgur.com/bmkXfIE.png" group-title="Noticias",Bloomberg HT (720p)
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="Noticias",CNA (1080p) [Geo-blocked]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Austria" tvg-name="Rakuten TV Action Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Action Movies Austria (720p)
-https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Austria" tvg-name="Rakuten TV Comedy Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Comedy Movies Austria (720p)
-https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Austria" tvg-name="Rakuten TV Drama Movies Austria (720p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Drama Movies Austria (720p)
-https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@US" tvg-name="Bloomberg Originals (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Noticias",Bloomberg Originals (1080p)
+https://bloomberg.com/media-manifest/streams/qt.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-name="CNA Originals (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Noticias",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Spain" tvg-name="Rakuten TV Action Movies (1080p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Action Movies (1080p)
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-name="Rakuten TV Comedy Movies (1080p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Comedy Movies (1080p)
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Spain" tvg-name="Rakuten TV Drama Movies (1080p)" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas y series",Rakuten TV Drama Movies (1080p)
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
 #EXTINF:-1 tvg-id="BETComedyMovies.us@SD" tvg-name="BET Comedy Movies" tvg-logo="https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png" group-title="Películas y series",BET Comedy Movies
 https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 #EXTINF:-1 tvg-id="PlutoTVActionMovies.us@CA" tvg-name="Pluto TV Action Movies" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Películas y series",Pluto TV Action Movies
 https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Películas y series",Pluto TV Comedy Movies
+#EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-name="Pluto TV Comedy Movies (United States)" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Películas y series",Pluto TV Comedy Movies (United States)
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDramaMovies.us@CA" tvg-name="Pluto TV Drama Movies" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="Películas y series",Pluto TV Drama Movies
 https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
@@ -58,29 +58,29 @@ https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us@SD" tvg-name="30A We Love Cars (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Autos y motores",30A We Love Cars (720p)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-name="FloRacing 24/7 (1080p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Autos y motores",FloRacing 24/7 (1080p)
+#EXTINF:-1 tvg-id="FloRacing.us@HD" tvg-name="FloRacing (1080p)" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/floracing-white.png" group-title="Autos y motores",FloRacing (1080p)
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FastTV.us@SD" tvg-name="MotorTrend FAST TV (720p)" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" group-title="Autos y motores",MotorTrend FAST TV (720p)
-https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
+#EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-name="Johnny Carson TV (720p)" tvg-logo="https://i.imgur.com/KBTqpJ7.png" group-title="Autos y motores",Johnny Carson TV (720p)
+https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au@SD" tvg-name="Racing.com (720p)" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Autos y motores",Racing.com (720p)
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-name="Adventure Earth (1080p)" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Ciencia y espacio",Adventure Earth (1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-name="Aire de Santa Fe (1080p)" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Ciencia y espacio",Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CMTV.us@SD" tvg-name="Costa Mesa's Municipal Access Channel CMTV 3 (720p)" tvg-logo="https://i.imgur.com/73LKwAK.png" group-title="Ciencia y espacio",Costa Mesa's Municipal Access Channel CMTV 3 (720p)
-https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx@SD" tvg-name="Expresa TV (720p)" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="Ciencia y espacio",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GenesisScienceNetwork.us@SD" tvg-name="Genesis Science Network (720p)" tvg-logo="https://i.imgur.com/CFAn996.png" group-title="Ciencia y espacio",Genesis Science Network (720p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
-#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-name="CMC-USA Country Music Channel (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png" group-title="Música",CMC-USA Country Music Channel (720p)
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-name="Love Nature (1080p)" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Ciencia y espacio",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-name="CMC-USA Country Music Channel (720p)" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="Música",CMC-USA Country Music Channel (720p)
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 #EXTINF:-1 tvg-id="MasMusicaFM.co@SD" tvg-name="MasMusica FM (720p)" tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música",MasMusica FM (720p)
 https://movil.ejeserver.com/live/masmusica.m3u8
-#EXTINF:-1 tvg-id="SolMusica.es@SD" tvg-name="Sol Música (720p)" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música",Sol Música (720p)
+#EXTINF:-1 tvg-id="SolMusica.es@SD" tvg-name="Sol Musica (720p)" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Música",Sol Musica (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-id="SupermusicaTV.co@SD" tvg-name="Supermúsica TV (720p)" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" group-title="Música",Supermúsica TV (720p)
+#EXTINF:-1 tvg-id="SupermusicaTV.co@SD" tvg-name="Supermusica TV (720p)" tvg-logo="https://i.imgur.com/MiVs42N.jpeg" group-title="Música",Supermusica TV (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-name="Telehit Musica (1080p)" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="Música",Telehit Musica (1080p)
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
@@ -98,5 +98,5 @@ https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 tvg-id="BFMTechCo.fr@SD" tvg-name="BFM Tech & Co (1080p)" tvg-logo="https://i.imgur.com/FQ0FpXV.png" group-title="Finanzas y tecnología",BFM Tech & Co (1080p)
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="TechStorm.sg@SD" tvg-name="Tech Storm (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="Finanzas y tecnología",Tech Storm (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TechStorm.sg@SD" tvg-name="TechStorm (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="Finanzas y tecnología",TechStorm (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
