@@ -2,7 +2,7 @@
 # Generada automáticamente. Canales: 150
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-name="TVN (Chile) (1080p)" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (Chile) (1080p)
 http://15.204.246.24:8080/TVNHD/index.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (Chile) (1080p)
+#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png" group-title="Chile",Canal 13 (Chile) (1080p)
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" tvg-name="Mega (Chile) (1080p)" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (Chile) (1080p)
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -70,8 +70,8 @@ https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="LiderTV.pe@SD" tvg-name="Lider TV (Peru) (720p)" tvg-logo="https://i.imgur.com/naZXUdR.jpeg" group-title="Latinoamérica",Lider TV (Peru) (720p)
 https://chankillo.agenciastreaming.com/lidertv/index.m3u8
-#EXTINF:-1 tvg-id="OndaTV.pe@SD" tvg-name="Onda TV (Peru) (720p)" tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" group-title="Latinoamérica",Onda TV (Peru) (720p)
-https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaTV.pe@SD" tvg-name="Onda TV (Peru) (1080p)" tvg-logo="https://i.imgur.com/gbjdiLW.jpeg" group-title="Latinoamérica",Onda TV (Peru) (1080p)
+https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-name="Paraguay TV (1080p)" tvg-logo="https://i.imgur.com/TWnTZ3c.png" group-title="Latinoamérica",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe@SD" tvg-name="SolTV (Peru) (720p)" tvg-logo="https://i.imgur.com/GtNkuAc.png" group-title="Latinoamérica",SolTV (Peru) (720p)
@@ -82,9 +82,9 @@ https://k20.usastreams.com:8081/tvperuanisima/index.m3u8
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
 #EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" tvg-name="TV Publica Marcos Paz (720p)" tvg-logo="https://i.imgur.com/CRmY4Oi.png" group-title="Latinoamérica",TV Publica Marcos Paz (720p)
 https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
-#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-name="ATV (Peru) (1080p)" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Latinoamérica",ATV (Peru) (1080p)
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-name="ATV (Peru) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ATV_Peru_2025.svg/1920px-ATV_Peru_2025.svg.png" group-title="Latinoamérica",ATV (Peru) (1080p)
 http://190.93.224.42/ATV/index.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="Bolivia TV (1080p)" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="Latinoamérica",Bolivia TV (1080p)
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" tvg-name="Bolivia TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/BTV_logo_2026.png" group-title="Latinoamérica",Bolivia TV (1080p)
 http://190.181.61.93:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar@SD" tvg-name="Encuentro (720p)" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Latinoamérica",Encuentro (720p)
 http://138.59.227.20:8000/play/a05s/index.m3u8
@@ -111,7 +111,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-name="DW Espanol (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="Noticias",DW Espanol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish (1080p)" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Noticias",Euronews Spanish (1080p)
-https://iptv.bitred.cl/euronews/index.m3u8
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-name="NHK World Premium (720p)" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Noticias",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe@SD" tvg-name="Radio Uno Tacna (720p)" tvg-logo="https://i.imgur.com/PswowQP.png" group-title="Noticias",Radio Uno Tacna (720p)
@@ -172,6 +172,8 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.us@SD" tvg-name="Sony Movies (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Películas y series",Sony Movies (United States) (720p)
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorvisionPlus.de@SD" tvg-name="Motorvision+ (720p)" tvg-logo="https://i.imgur.com/5cs5GkJ.png" group-title="Autos y motores",Motorvision+ (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/motorvision_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-name="Motorvision (1080i)" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Autos y motores",Motorvision (1080i)
 https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
 #EXTINF:-1 tvg-id="30AWeLoveCars.us@SD" tvg-name="30A We Love Cars (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU" group-title="Autos y motores",30A We Love Cars (720p)
@@ -194,11 +196,11 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar@SD" tvg-name="Garage TV Latin America" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Autos y motores",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCars.us@SD" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Autos y motores",Pluto TV Cars
-https://jmp2.uk/plu-5812b3a4249444e05d09cc46.m3u8
+#EXTINF:-1 tvg-id="SpaceScienceNow.us@SD" tvg-name="Space Science Now (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/Zc8tW0l.png" group-title="Ciencia y espacio",Space Science Now (1080p) [Geo-blocked]
+https://amg00376-magellan-amg00376c13-vizio-us-1392.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-name="Adventure Earth (1080p)" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="Ciencia y espacio",Adventure Earth (1080p)
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-name="Aire de Santa Fe (1080p)" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Ciencia y espacio",Aire de Santa Fe (1080p)
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar@SD" tvg-name="Aire de Santa Fe (1080p)" tvg-logo="https://files.catbox.moe/9tm8wx.png" group-title="Ciencia y espacio",Aire de Santa Fe (1080p)
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1 tvg-id="CanalTelesantiago.co@SD" tvg-name="Canal Telesantiago (1080p)" tvg-logo="https://i.imgur.com/DmkH5p8.jpg" group-title="Ciencia y espacio",Canal Telesantiago (1080p)
 https://stream.canaltelesantiago.com:8000/play/TELESANTIAGO/index.m3u8
@@ -216,10 +218,8 @@ https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-name="PBS Nature (1080p)" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="Ciencia y espacio",PBS Nature (1080p)
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-#EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca@SD" tvg-name="Radio Tele Evangile Sans Limite (1080p)" tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Ciencia y espacio",Radio Tele Evangile Sans Limite (1080p)
-https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="Space.ar@South" tvg-name="Space South (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Ciencia y espacio",Space South (720p)
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PopularScience.us@SD" tvg-name="Popular Science (1080p) [Geo-blocked]" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c6bfca5e-58fe-4ed4-a87d-5e2ccde7f085/Logo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Ciencia y espacio",Popular Science (1080p) [Geo-blocked]
+https://amg13231-actve-amg13231c5-vizio-us-6143.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MiMusicaHits.us@SD" tvg-name="Mi Musica Hits (720p)" tvg-logo="https://i.imgur.com/z9MlLFL.png" group-title="Música",Mi Musica Hits (720p)
 http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="CMCUSACountryMusicChannel.us@SD" tvg-name="CMC-USA Country Music Channel (720p)" tvg-logo="https://i.imgur.com/QsANRSu.png" group-title="Música",CMC-USA Country Music Channel (720p)
@@ -239,7 +239,7 @@ http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" tvg-name="Mi Musica Romantica (1080p)" tvg-logo="https://i.imgur.com/eIaRv0U.png" group-title="Música",Mi Musica Romantica (1080p)
 http://168.228.44.241:9999/play/a054/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" tvg-name="Mi Musica Salsa (1080p)" tvg-logo="https://i.imgur.com/sT91t83.png" group-title="Música",Mi Musica Salsa (1080p)
-http://181.78.12.119:16123/play/ch55/index.m3u8
+http://38.134.250.110:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-name="Quiero Musica en mi Idioma (1080p)" tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Música",Quiero Musica en mi Idioma (1080p)
 http://158.172.155.130:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-name="Peniel Musical (480p)" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Música",Peniel Musical (480p)
@@ -266,8 +266,8 @@ https://reflect-stream-bronxnet.cablecast.tv/live-7/live/stream-3/live.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@US" tvg-name="Documentary+ (1080p)" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentales y cultura",Documentary+ (1080p)
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoTraveler.us@SD" tvg-name="GoTraveler (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="Documentales y cultura",GoTraveler (720p) [Geo-blocked]
-https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+#EXTINF:-1 tvg-id="GoTraveler.us@SD" tvg-name="GoTraveler (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="Documentales y cultura",GoTraveler (1080p) [Geo-blocked]
+https://amg09501-questar-amg09501c1-vizio-us-2907.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-name="History Asia (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales y cultura",History Asia (720p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9856
 #EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us@SD" tvg-name="Kevin Hart's LOL! Network (720p)" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Documentales y cultura",Kevin Hart's LOL! Network (720p)
